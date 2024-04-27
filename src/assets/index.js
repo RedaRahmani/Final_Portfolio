@@ -29,10 +29,18 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import arkx from "./arkx.png"
+import alx from "./alx_portfolio.png"
+import yosobox from "./yosobox_logo.png"
+import odex from "./ODEX.png"
 
 export {
   logo,
   backend,
+  odex,
+  arkx,
+  alx,
+  yosobox,
   creator,
   mobile,
   web,
