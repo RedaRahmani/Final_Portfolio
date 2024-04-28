@@ -27,6 +27,12 @@ import {
     jobit,
     tripguide,
     threejs,
+    c,
+    cpp,
+    java1,
+    Next,
+    python,
+    postgre
   } from "../assets";
   
   export const navLinks = [
@@ -65,12 +71,12 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "C",
+      icon: c,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Cpp",
+      icon: cpp,
     },
     {
       name: "JavaScript",
@@ -101,8 +107,20 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "Postge",
+      icon: postgre,
+    },
+    {
+      name: "Java",
+      icon: java1,
+    },
+    {
+      name: "Next",
+      icon: Next,
+    },
+    {
+      name: "Python",
+      icon: python,
     },
     {
       name: "git",
