@@ -106,10 +106,7 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    {
-      name: "Postge",
-      icon: postgre,
-    },
+    
     {
       name: "Java",
       icon: java1,
