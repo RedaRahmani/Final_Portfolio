@@ -106,11 +106,6 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    
-    {
-      name: "Java",
-      icon: java1,
-    },
     {
       name: "Next",
       icon: Next,
@@ -127,10 +122,7 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
+    
   ];
   
   const experiences = [
