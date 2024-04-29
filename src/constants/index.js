@@ -123,8 +123,8 @@ import {
       icon: figma,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "java",
+      icon: java1,
     },
     
   ];
