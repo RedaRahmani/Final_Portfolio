@@ -122,6 +122,10 @@ import {
       name: "figma",
       icon: figma,
     },
+    {
+      name: "figma",
+      icon: figma,
+    },
     
   ];
   
