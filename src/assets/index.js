@@ -8,7 +8,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
-import docker from "./tech/django.png";
+import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -29,34 +29,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import arkx from "./arkx.png"
-import alx from "./alx_portfolio.png"
-import yosobox from "./yosobox_logo.png"
-import odex from "./ODEX.png"
-import python from "./python.png"
-import flask from "./flask.png"
-import Next from "./nextjs.png"
-import postgre from "./postgre.png"
-import c from "./C.png"
-import java from "./java.png"
-import cpp from "./cpp.png"
-import java1 from "./java1.png"
 
 export {
   logo,
   backend,
-  python,
-  java1,
-  cpp,
-  flask,
-  Next,
-  postgre,
-  c,
-  java,
-  odex,
-  arkx,
-  alx,
-  yosobox,
   creator,
   mobile,
   web,
